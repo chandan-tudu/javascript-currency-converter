@@ -1,0 +1,5 @@
+.vscode
+dist
+script.ts
+style.css
+tsconfig.json
